@@ -1,0 +1,2 @@
+Flask==0.9
+-e git+http://github.com/errkk/gitpil#egg=PIL
