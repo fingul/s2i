@@ -1,15 +1,12 @@
-s2i
-===
+#About
 
 string to png image
 
 http://s2i.herokuapp.com
 
+#Instruction
 
-===
-* instruction
-
-heroku login
+<pre>heroku login
 
 #add ssh key if not exists
 #ssh-keygen -t rsa
@@ -20,4 +17,4 @@ heroku login
 
 git push heroku master
 heroku open
-
+</pre>
